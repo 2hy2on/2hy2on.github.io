@@ -12,7 +12,7 @@ I hold an MSc in Cyber Security from the University of Manchester and am based i
 
 ### Why I Built This Site
 
-This blog serves as my public engineering log. I believe the best way to master complex security concepts is to document and explain them clearly. 
+I believe the best way to master complex security concepts is by documenting them. Mapping out my thought process helps me pinpoint knowledge gaps, solidify what I’ve learned, and turn raw practice into clear, lasting takeaways.
 
 Here you'll find:
 - **Lab Write-ups**: Hands-on practice with tools like Nmap, Wireshark, and AWS environments.
