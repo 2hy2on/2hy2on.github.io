@@ -54,7 +54,7 @@ Modify the SSH daemon settings to enforce a combination of **Public Key** and **
 Restart the SSH daemon to apply changes, and upon attempting to connect, you will be prompted for your password and the verification code:
 
 <div style="text-align: center;">
-  <img src="/assets/lib/img/posts/ssh-login-success.png" style="width: 65%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: block; margin: 0 auto;" alt="SSH 2FA Login Verification">
+  <img src="/assets/img/posts/ssh-login-success.png" style="width: 65%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: block; margin: 0 auto;" alt="SSH 2FA Login Verification">
   <p style="font-style: italic; font-size: 0.9rem; color: #666; margin-top: 8px;">Figure: Successful SSH login prompt requiring password and verification code (OTP)</p>
 </div>
 
